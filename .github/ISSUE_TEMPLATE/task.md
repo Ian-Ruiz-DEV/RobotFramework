@@ -1,7 +1,7 @@
 ---
 name: Task
 about: Crea una tarea para trabajar en el proyecto
-title: ''
+title: "[TASK]"
 labels: ''
 assignees: ''
 
