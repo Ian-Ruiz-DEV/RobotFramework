@@ -1,5 +1,5 @@
 #Este es el archivo de excepciones para el proyecto de Robot framework
 
-#Ignora la siguiente ruta (carpeta)
+#Ignora las siguientes carpetas
 sandbox
 reports
